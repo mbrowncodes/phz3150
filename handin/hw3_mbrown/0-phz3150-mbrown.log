@@ -1,0 +1,113 @@
+Mackenzie Brown
+Log for PHZ 3150, Fall 2025
+
+*****IN: Fri Aug 22 14:43:00 EDT 2025
+
+Opened TextEdit, started this log, saved as:
+/home/mbrown/Desktop/0-phz3150-mackenziebrown.log
+
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+Name: Mackenzie Brown
+Email: ma755497@ucf.edu
+Phone: 3522427641
+Major: Astrophysics
+Year: 3rd
+ID: 5516992
+How did you hear about this course? Adacemic Advisor, and AST 4762C
+Do you have a laptop you can bring to class, install software on, etc.? Yes
+What operating system and version does it run? macOS Monterey
+How much free disk space does it have? 300.9 GB
+What operating systems are you comfortable working in? 
+What computer classes have you taken, including high school,
+extracurricular, etc.? I have only taken COP 2500
+Have you ever programmed a computer? No
+In what language(s)? N/A
+Summarize your experience: My experience is low level, from just an introduction to Python course. 
+Have you taken statistics or probability? No
+Why are you taking this course? I am taking this course to improve my coding skills and to take that and join a research team! Coding is a essential foundational tool to carry me through my degree of intrest.
+Are there particular topics you hope to learn? I hope to learn how to write functional code that can serve a purpose, ie. not just for this course but to calcuate error or other math functions. 
+If you have worked with scientific data or modeling before, briefly
+describe your experience: I have not.
+Have you ever been involved with a science club or similar? If so,
+describe: I have not.
+
+*****OUT: Fri Aug 22 14:51:05 EDT 2025
+
+*****IN: Sun Aug 24 1:55:30 EDT 2025
+
+Downloaded Anaconda and Github systems
+Opened Jupyter from Anaconda and found the search spotlight tap, typed screenshot and entered, chose screenshot this tab and took a screenshot
+My version of Python from Juypter is 3.13.5
+Created a Student account, opened GitHub Desktop app, took screenshot again through spotlight search
+
+*****OUT: Sun Aug 24 2:19:22 EDT 2025
+
+*****IN: Tue Sep 2 20:09:34 EDT 2025
+Starting homework 2. 
+
+1. A sentence with correct syntax but incorrect characters would be, "Th!s sent3nce is c0rrec+"
+A sentence with incorrect syntax but correct characters would be, "Sentence is correct this"
+Natural languages has some words that may have multiple different meanings, as well as too many filler gramatical words like "too, to, there, them" that would be hard to follow in code. Some more complex parts of natural language, like figurative language, would make it near impossible to run some function when its meaning may not be exactly as written. 
+2. Completed the GitHub Hello World tutorial, added my hw1 folder into my proper GitHub homework folder. Screenshotted changes in the GitHub Desktop before committing them. Screenshotted commited change of homework folder on the web GitHub in my account. 
+
+3.
+
+*****OUT: Tue Sep 2 20:48:44 EDT 2025
+
+*****IN: Tue Sep 2 21:55:23 EDT 2025
+1. A sentence with correct syntax but incorrect characters would be, "Th!s sent3nce is c0rrec+"
+A sentence with incorrect syntax but correct characters would be, "Sentence is correct this"
+Natural languages has some words that may have multiple different meanings, as well as too many filler gramatical words like "too, to, there, them" that would be hard to follow in code. Some more complex parts of natural language, like figurative language, would make it near impossible to run some function when its meaning may not be exactly as written. 
+2. Completed the GitHub Hello World tutorial, added my hw1 folder into my proper GitHub homework folder. Screenshotted changes in the GitHub Desktop before committing them. Screenshotted commited change of homework folder on the web GitHub in my account. 
+3. Opened a new Jupyter notebook, made a description markdown cell, created a code to with multiple variables and preformed basic algebraic functions upon it.
+
+*****OUT: Tue Sep 2 22:48:20 EDT 2025
+
+*****In: Wed Sep 3 14:33:21 EDT 2025
+Opened JupyterHub and began looking at homework 3 
+
+1. assigned individual values for pairs of mass and acceleration, named them the same variable but changed the number to indicate which pair was being calculated. Multipled the variable pairs of mass and acceleration to calcuate and print the force of each. 
+
+*****OUT: Wed Sep 3 14:54:39 EDT 2025
+
+*****IN: Wed Sep 3 20:00:47 EDT 2025
+1.2. Defined a function with two inputs for arguments, force and mass
+set varibale a to be force divided by mass
+set variable values for mass and forced
+called the function to calculate acceleration
+
+*****OUT: Wed Sep 3 20:31:12 EDT 2025
+
+*****IN: Tue Sep 9 20:21:18 EDT 2025
+
+2. created python tab inside the hw 3 folder named accel.py, defined function acceleration that takes in 4 variable (t1,t2,v1,v2), calculated average velcoity, called function in hw 3 ipynb and inputted values to print
+
+*****OUT: Tue Sep 9 20:39:34 EDT 2025
+
+*****IN: Tue Sep 9 22:42:58 EDT 2025
+3. created two lists, velocity, and time, by manually imputing each value into the lists,
+created new list vels to be the 2:5 (3rd to 5th element) and the 7 element in velocity
+*****OUT: Tue Sep 9 23:17:42 EDT 2025
+
+*****IN: Wed Sep 10 00:41:38 EDT 2025
+fixed the list of vels, by manually typing the values in
+3.2. called function acceleration and input values as the lists time and vels for the [] element
+
+*****OUT: Wed Sep 10 01:20:56 EDT 2025
+
+*****In: Wed Sep 10 14:01:37 EDT 2025
+
+1. assigned individual values for pairs of mass and acceleration, named them the same variable but changed the number to indicate which pair was being calculated. Multipled the variable pairs of mass and acceleration to calcuate and print the force of each. 
+1.2. Defined a function with two inputs for arguments, force and mass
+set varibale a to be force divided by mass
+set variable values for mass and forced
+called the function to calculate acceleration
+2. created python tab inside the hw 3 folder named accel.py, defined function acceleration that takes in 4 variable (t1,t2,v1,v2), calculated average velcoity, called function in hw 3 ipynb and inputted values to print
+3. created two lists, velocity, and time, by manually imputing each value into the lists,
+created new list vels to be the 2:5 (3rd to 5th element) and the 7 element in velocity
+3.2. called function acceleration and input values as the lists time and vels for the [] element
+3.2 Fixed the values produced by function acceleration, by naming a new variable, before calling function. Made a new list accels, and printed it. 
+3.3 used the braket operator on the left side of the = sign to pick which element in the list, and the right side of = changed the value to 90
+
+*****OUT: Wed Sep 10 14:10:54 EDT 2025
+
