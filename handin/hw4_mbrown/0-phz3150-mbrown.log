@@ -95,7 +95,7 @@ fixed the list of vels, by manually typing the values in
 
 *****OUT: Wed Sep 10 01:20:56 EDT 2025
 
-*****In: Wed Sep 10 14:01:37 EDT 2025
+*****IN: Wed Sep 10 14:01:37 EDT 2025
 
 1. assigned individual values for pairs of mass and acceleration, named them the same variable but changed the number to indicate which pair was being calculated. Multipled the variable pairs of mass and acceleration to calcuate and print the force of each. 
 1.2. Defined a function with two inputs for arguments, force and mass
@@ -110,4 +110,20 @@ created new list vels to be the 2:5 (3rd to 5th element) and the 7 element in ve
 3.3 used the braket operator on the left side of the = sign to pick which element in the list, and the right side of = changed the value to 90
 
 *****OUT: Wed Sep 10 14:10:54 EDT 2025
+
+*****IN: Fri Sep 19 13:05:36 EDT 2025
+started homework 4 
+
+*****OUT: Fri Sep 19 14:35:33 EDT 2025
+
+*****IN: Mon Sep 22 14:24:24 EDT 2025
+3.3 importing numpy in my disp py file to take in veclocity and acceleration vectors 
+*****OUT: Mon Sep 22 14:56:42 EDT 2025
+
+*****IN: Wed Sep 24 13:05:22 EDT 2025
+Fixed 2.2 by converting all the values to the same unit, inches then cm, then did whole number division (//) and remainder division (%) to find values of meters and centimeters and make into array, also made those values integers not floats
+Fixed 3.4, found the displacement formula and altered the values of a, b, and c --> (acceleration, velocity, displacment) to solve for time
+Printed the second value of the tuple to get the positive root 
+*****OUT: Wed Sep 24 14:02:21 EDT 2025
+
 
